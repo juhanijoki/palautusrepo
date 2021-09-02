@@ -1,0 +1,15 @@
+.msg {
+  background: rgb(114, 35, 35);
+  color: rgb(213, 238, 238);
+  font-family: sans-serif;
+  font-weight: 600;
+  font-size: 18px;
+  text-align: left center;
+  
+  height: 30px;
+  padding: 10px;
+  margin: 15px;
+  border-style: solid green 2px;
+  border-radius: 10px;
+}
+
